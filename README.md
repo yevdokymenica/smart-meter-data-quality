@@ -20,6 +20,6 @@ Entwicklung eines prototypischen Prozesses zur Verarbeitung und Qualitätssicher
 Eine hohe Datenqualität ist eine wesentliche Voraussetzung für eine zuverlässige Verarbeitung von Mess- und Energiedaten. Der entwickelte Prototyp zeigt beispielhaft, wie fehlerhafte Messwerte identifiziert, validiert und für weitere Analysen aufbereitet werden können.
 
 ## Tech Stack
-* **Python** (Pandas, NumPy)
+* **Python** (Pandas)
 * **SQL** / **PostgreSQL**
 * **Power BI**
