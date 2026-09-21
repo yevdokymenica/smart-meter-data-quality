@@ -5,7 +5,7 @@ Entwicklung eines prototypischen Prozesses zur Verarbeitung und Qualitätssicher
 
 ## Project Pipeline
 1. **Data Ingestion**: Generierung von synthetischen Smart-Meter-Rohdaten (30 Zähler, 7 Tage, 15-Minuten-Interwale).
-2. **Data Validation**: Einlesen und Strukturierung der Zeitreihendaten mittels Python (Pandas/NumPy).
+2. **Data Validation**: Einlesen und Strukturierung der Zeitreihendaten mittels Python (Pandas).
 3. **Data Quality Checks**: Automatisierte Erkennung von:
    - Fehlenden Messwerten (Missing measurements)
    - Doppelten Zeitstempeln (Duplicate timestamps)
